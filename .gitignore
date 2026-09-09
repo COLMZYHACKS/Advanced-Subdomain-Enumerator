@@ -1,0 +1,54 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Output files
+*.txt
+*.log
+outputs/
+security_report_*.txt
+scan_*.txt
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Distribution
+dist/
+build/
+*.egg-info/
+*.egg
+
+# MyPy
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large wordlists (optional - comment out if you want to keep them)
+# *.7z
+# *.zip
